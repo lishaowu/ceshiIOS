@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BBGCRM.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>6</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>AAD7629FEC4F1942B2D6AE854F0D5F080CB08829</string>
+				<key>dateExpires</key>
+				<string>2024/11/4</string>
+				<key>type</key>
+				<string>Cloud Managed iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>2B9GN58K24.com.bolz.cn</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>2B9GN58K24</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>2B9GN58K24.com.bolz.cn</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>BBGCRM.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4d60e2e0-b3e7-406d-8086-e314213a7a15</string>
+				<key>dateExpires</key>
+				<string>2022/11/5</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.bolz.cn</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>2B9GN58K24</string>
+				<key>name</key>
+				<string>Bank of Liuzhou Co., Ltd.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.5</string>
+		</dict>
+	</array>
+</dict>
+</plist>

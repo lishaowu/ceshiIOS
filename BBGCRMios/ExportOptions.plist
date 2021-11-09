@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://crm.bolz.cn:2443/icrm/html/app/appFile/getFile/BBGCRM.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://crm.bolz.cn:2443/icrm/html/app/appFile/getFile/5858.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://crm.bolz.cn:2443/icrm/html/app/appFile/getFile/1512152.png</string>
+	</dict>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>2B9GN58K24</string>
+	<key>thinning</key>
+	<string>iPhone13,2</string>
+</dict>
+</plist>
